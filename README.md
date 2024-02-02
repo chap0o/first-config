@@ -1,3 +1,3 @@
-# .config
+# config 1
 
-very config on manjaro linux using kde and the dracula theme :)
+very config on manjaro linux using kde :)
